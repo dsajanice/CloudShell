@@ -50,8 +50,8 @@ RUN bash ./tdnfinstall.sh \
   curl \
   bind-utils \
   dos2unix \
-  dotnet-runtime-6.0 \
-  dotnet-sdk-6.0 \
+  dotnet-runtime-7.0 \
+  dotnet-sdk-7.0 \
   e2fsprogs \
   emacs \
   gawk \
